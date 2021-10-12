@@ -1,15 +1,12 @@
 ### Hi there 👋
+### This is Seda AHİ!
+Welcome to my Github page! 
+----
 
+## 👩🏻‍💻 About Me
 
-**sedaahi/sedaahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduated from Material Science and Engineering in Cankaya University 
+- 🌱 Currently laerning C#
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seda-ahi-06711220b/)
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![DYM1 (1)](https://user-images.githubusercontent.com/92363990/136999314-532817eb-1dbd-45ac-b5a8-7e0c31474dd1.gif)
