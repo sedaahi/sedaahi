@@ -5,7 +5,7 @@ Welcome to my Github page!
 
 ## 👩🏻‍💻 About Me
 
-- 🎓 Graduated from Material Science and Engineering in Cankaya University 
+- 🎓 Graduated from Material Science and Engineering at Cankaya University 
 - 🌱 Currently laerning C#
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seda-ahi-06711220b/)
 
